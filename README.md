@@ -29,6 +29,7 @@ The file passed in input specifies the rhythm in a JSON format. Here is an examp
   ]
 }
 ```
+All [Euterpea's instruments](http://hackage.haskell.org/package/Euterpea-2.0.5/docs/src/Euterpea.Music.html#InstrumentName) are available, except ```CustomInstrument```
 
 ## Examples
 More complex examples are provided in the [examples](examples) directory. They show more articulated rhythms made by mixing together simple euclidean rhythms played on different instruments, notes, octaves and onset (delay)
