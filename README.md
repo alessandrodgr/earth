@@ -31,4 +31,4 @@ The file passed in input specifies the rhythm in a JSON format. Here is an examp
 ```
 
 ## Examples
-More complex examples are provided in the [examples](examples) directory. They show more articulated rhythms made by mixing together simple euclidean rhythms played on different instruments, notes, octaves, onset (delay)
+More complex examples are provided in the [examples](examples) directory. They show more articulated rhythms made by mixing together simple euclidean rhythms played on different instruments, notes, octaves and onset (delay)
