@@ -1,0 +1,48 @@
+{
+  "tempo": {
+    "numerator": 16,
+    "denominator": 4
+  },
+  "tracks": [
+    {
+      "instrument": "Marimba",
+      "note": "c",
+      "octave": 3,
+      "delay": 0,
+      "beats": 9,
+      "total": 16
+    },
+    {
+      "instrument": "Marimba",
+      "note": "e",
+      "octave": 3,
+      "delay": 1,
+      "beats": 5,
+      "total": 16
+    },
+    {
+      "instrument": "Marimba",
+      "note": "f",
+      "octave": 3,
+      "delay": 0,
+      "beats": 7,
+      "total": 16
+    },
+    {
+      "instrument": "Woodblock",
+      "note": "a",
+      "octave": 4,
+      "delay": 0,
+      "beats": 1,
+      "total": 4
+    },
+    {
+      "instrument": "TinkleBell",
+      "note": "e",
+      "octave": 4,
+      "delay": 1,
+      "beats": 1,
+      "total": 3
+    }
+  ]
+}

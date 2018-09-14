@@ -1,0 +1,40 @@
+{
+  "tempo": {
+    "numerator": 8,
+    "denominator": 2
+  },
+  "tracks": [
+    {
+      "instrument": "SynthDrum",
+      "note": "f",
+      "octave": 2,
+      "delay": 0,
+      "beats": 4,
+      "total": 16
+    },
+    {
+      "instrument": "SynthDrum",
+      "note": "a",
+      "octave": 2,
+      "delay": 2,
+      "beats": 5,
+      "total": 16
+    },
+    {
+      "instrument": "SynthDrum",
+      "note": "c",
+      "octave": 2,
+      "delay": 4,
+      "beats": 2,
+      "total": 16
+    },
+    {
+      "instrument": "SynthDrum",
+      "note": "a",
+      "octave": 2,
+      "delay": 2,
+      "beats": 4,
+      "total": 16
+    }
+  ]
+}
