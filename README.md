@@ -10,7 +10,7 @@ Other dependencies are listed in [earth.cabal](earth.cabal), to install them run
 ```
 cabal run rhythmFile
 ```
-The file passed in input specifies the rhythm in a JSON format. Here is an example of a cuban tresillo played on the E note of a slap bass:
+The input file specifies the rhythm in a JSON format. Here is an example of a cuban tresillo played on the E note of a slap bass:
 ```
 {
   "tempo": {
